@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "Premium Gaming Laptop",
+      "description": "High-end gaming laptop with RTX 4080",
+      "color": "Black",
+      "price": 2499.99,
+      "stockQuantity": 5
+    },
+    {
+      "name": "Budget Student Laptop",
+      "description": "Affordable laptop for students",
+      "color": "Silver",
+      "price": 499.99,
+      "stockQuantity": 25
+    },
+    {
+      "name": "Business Ultrabook",
+      "description": "Thin and light professional laptop",
+      "color": "Space Gray",
+      "price": 1299.99,
+      "stockQuantity": 15
+    },
+    {
+      "name": "Creator Workstation",
+      "description": "Powerful laptop for content creators",
+      "color": "White",
+      "price": 1899.99,
+      "stockQuantity": 8
+    },
+    {
+      "name": "Basic Chromebook",
+      "description": "Simple laptop for web browsing",
+      "color": "Black",
+      "price": 299.99,
+      "stockQuantity": 30
+    },
+    {
+      "name": "Gaming Desktop",
+      "description": "Pre-built gaming desktop computer",
+      "color": "Black",
+      "price": 1799.99,
+      "stockQuantity": 12
+    },
+    {
+      "name": "Mini PC",
+      "description": "Compact desktop for office use",
+      "color": "Silver",
+      "price": 599.99,
+      "stockQuantity": 20
+    },
+    {
+      "name": "All-in-One PC",
+      "description": "Desktop with built-in display",
+      "color": "White",
+      "price": 999.99,
+      "stockQuantity": 10
+    },
+    {
+      "name": "Server Workstation",
+      "description": "Professional grade server computer",
+      "color": "Black",
+      "price": 3499.99,
+      "stockQuantity": 3
+    },
+    {
+      "name": "Educational Tablet PC",
+      "description": "Tablet computer for schools",
+      "color": "Blue",
+      "price": 399.99,
+      "stockQuantity": 40
+    }
+  ]
+}
