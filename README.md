@@ -19,3 +19,6 @@ I din Docker app ska du nu se att en container har startats
 I intelliJ startar du Spring boot.
 
 Om du gjort rätt enligt instruktionerna ska allting vara igång nu.
+
+### Connecta Docker och MongoDB Compass
+**mongodb://myuser:mypassword@localhost:27017/demodb?authSource=admin**
